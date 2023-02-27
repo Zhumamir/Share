@@ -1,0 +1,13 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+#menu-item button {
+  display: block;
+  margin: 0 auto;
+}
+
+.mat-toolbar.mat-primary {
+  background: #63d252;
+  color: #fff;
+}
